@@ -1,3 +1,6 @@
+# Not including the thousands of files in node_modules
+node_modules/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -26,8 +29,7 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
-
+Icon
 # Thumbnails
 ._*
 
@@ -41,3 +43,5 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
